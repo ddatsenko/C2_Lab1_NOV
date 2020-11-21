@@ -1,0 +1,13 @@
+C:\Users\Денис\source\repos\Lab1Jagged\bin\Debug\netcoreapp3.1\Lab1Jagged.exe
+C:\Users\Денис\source\repos\Lab1Jagged\bin\Debug\netcoreapp3.1\Lab1Jagged.deps.json
+C:\Users\Денис\source\repos\Lab1Jagged\bin\Debug\netcoreapp3.1\Lab1Jagged.runtimeconfig.json
+C:\Users\Денис\source\repos\Lab1Jagged\bin\Debug\netcoreapp3.1\Lab1Jagged.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\Lab1Jagged\bin\Debug\netcoreapp3.1\Lab1Jagged.dll
+C:\Users\Денис\source\repos\Lab1Jagged\bin\Debug\netcoreapp3.1\Lab1Jagged.pdb
+C:\Users\Денис\source\repos\Lab1Jagged\obj\Debug\netcoreapp3.1\Lab1Jagged.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\Lab1Jagged\obj\Debug\netcoreapp3.1\Lab1Jagged.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\Lab1Jagged\obj\Debug\netcoreapp3.1\Lab1Jagged.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\Lab1Jagged\obj\Debug\netcoreapp3.1\Lab1Jagged.AssemblyInfo.cs
+C:\Users\Денис\source\repos\Lab1Jagged\obj\Debug\netcoreapp3.1\Lab1Jagged.dll
+C:\Users\Денис\source\repos\Lab1Jagged\obj\Debug\netcoreapp3.1\Lab1Jagged.pdb
+C:\Users\Денис\source\repos\Lab1Jagged\obj\Debug\netcoreapp3.1\Lab1Jagged.genruntimeconfig.cache

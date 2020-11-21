@@ -1,0 +1,13 @@
+C:\Users\Денис\source\repos\Lab1_TTriangle\bin\Debug\netcoreapp3.1\Lab1_TTriangle.exe
+C:\Users\Денис\source\repos\Lab1_TTriangle\bin\Debug\netcoreapp3.1\Lab1_TTriangle.deps.json
+C:\Users\Денис\source\repos\Lab1_TTriangle\bin\Debug\netcoreapp3.1\Lab1_TTriangle.runtimeconfig.json
+C:\Users\Денис\source\repos\Lab1_TTriangle\bin\Debug\netcoreapp3.1\Lab1_TTriangle.runtimeconfig.dev.json
+C:\Users\Денис\source\repos\Lab1_TTriangle\bin\Debug\netcoreapp3.1\Lab1_TTriangle.dll
+C:\Users\Денис\source\repos\Lab1_TTriangle\bin\Debug\netcoreapp3.1\Lab1_TTriangle.pdb
+C:\Users\Денис\source\repos\Lab1_TTriangle\obj\Debug\netcoreapp3.1\Lab1_TTriangle.csprojAssemblyReference.cache
+C:\Users\Денис\source\repos\Lab1_TTriangle\obj\Debug\netcoreapp3.1\Lab1_TTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Денис\source\repos\Lab1_TTriangle\obj\Debug\netcoreapp3.1\Lab1_TTriangle.AssemblyInfoInputs.cache
+C:\Users\Денис\source\repos\Lab1_TTriangle\obj\Debug\netcoreapp3.1\Lab1_TTriangle.AssemblyInfo.cs
+C:\Users\Денис\source\repos\Lab1_TTriangle\obj\Debug\netcoreapp3.1\Lab1_TTriangle.dll
+C:\Users\Денис\source\repos\Lab1_TTriangle\obj\Debug\netcoreapp3.1\Lab1_TTriangle.pdb
+C:\Users\Денис\source\repos\Lab1_TTriangle\obj\Debug\netcoreapp3.1\Lab1_TTriangle.genruntimeconfig.cache
